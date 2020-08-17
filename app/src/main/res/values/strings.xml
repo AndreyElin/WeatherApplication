@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WeatherApplication</string>
+    <string name="city">Ярославль</string>
+    <string name="_22_c">22 C</string>
 </resources>
